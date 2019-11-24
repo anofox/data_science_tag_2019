@@ -1,0 +1,26 @@
+name: r-timeseries
+channels:
+  - conda-forge
+  - anaconda
+  - r
+dependencies:
+  - jupyterlab
+  - widgetsnbextension
+  - nodejs
+  - gxx_linux-64
+  - gfortran_linux-64
+  - r
+  - r-bsts
+  - r-remotes
+  - r-forecast
+  - r-arrow
+  - r-tsibble
+  - r-tidyverse
+  - r-furrr
+  - r-testthat
+  - r-covr
+  - r-knitr
+  - r-rmarkdown
+  - r-future
+  - r-plotly
+  - gxx_linux-64
